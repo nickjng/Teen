@@ -1,2 +1,3 @@
 # Teen
-site individual para treinar backEnd utilizando Node.js e React.js
+site individual para treilar habilidades de  fullStack
+utilizando Node.js e React.js
