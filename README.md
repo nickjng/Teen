@@ -1,10 +1,10 @@
 # Projeto Teen
 
-![GitHub repo size](https://img.shields.io/github/repo-size/nickjng/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/nickjng/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/nickjng/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nickjng/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nickjng/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/nickjng/Teen?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/nickjng/Teen?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/nickjng/Teen?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nickjng/Teen?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nickjng/Teen?style=for-the-badge)
 
 > Projeto indidual para treinar e estudar Java Spring boot e React.js <br>
 Uma rede social para o Renascer teen
